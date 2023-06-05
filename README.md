@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @imayush2
 - 👀 I’m interested in data structure algorithm
-- 🌱 I’m currently learning DSA.
+- 🌱 I’m currently learning Web Development.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me instagram imayush2.0
 
